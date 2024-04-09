@@ -1,1 +1,3 @@
+# Data Storytelling
+##  credit seminar
 teaching material used for the "Data Storytelling" credit seminar for students on degree courses organised by the Department of Psychology and Cognitive Science of the University of Trento academic year 2023/2024
