@@ -20,7 +20,7 @@ For the award of credits, participation in the seminar for at least 80% of the l
 [Introduction to Data Storytelling](https://docs.google.com/presentation/d/e/2PACX-1vSC7_-zXbdPa3U0xwkL0OWMibd5-Kdq7ViH8PB6_S_QFxf0-bz1pXdcZ6ZgK4wh2iuGR_xT77QcUMC7/pub?start=false&loop=false&delayms=3000)
 
 ### 12 April 2024
-Data Visualization 
+[Data Visualization](https://docs.google.com/presentation/d/e/2PACX-1vQccPuaGESUKD0T3UTWxZoJ3Q8SIM2QAxGn_Qbjb8UZqVC1gougjANLnPj5N6so4laoujV25DNa0gdz/pub?start=false&loop=false&delayms=3000) 
 
 ### 03 May 2024
 Definition of the project works
