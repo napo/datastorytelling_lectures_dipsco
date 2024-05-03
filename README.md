@@ -23,7 +23,7 @@ For the award of credits, participation in the seminar for at least 80% of the l
 [Data Visualization](https://docs.google.com/presentation/d/e/2PACX-1vQccPuaGESUKD0T3UTWxZoJ3Q8SIM2QAxGn_Qbjb8UZqVC1gougjANLnPj5N6so4laoujV25DNa0gdz/pub?start=false&loop=false&delayms=3000) 
 
 ### 03 May 2024
-Definition of the project works
+[Definition of the project works](https://docs.google.com/presentation/d/e/2PACX-1vT_ObS4UOUzAHp9TbDFe4PG8lZx-ZAyC8b5Ea_L3KUF6nPgME1hE1mIkmtxIEbc3Ds0ceqURe6M_k5-/pub?start=false&loop=false&delayms=3000)
 
 ### 10 May 2024
 Presentation of the project works
