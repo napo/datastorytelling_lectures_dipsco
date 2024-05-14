@@ -34,4 +34,4 @@ Presentation of the project works
 
 
 ## license
-where not otherwise indicated, the chosen licence is Creative Commons Attribution 4.0 declaring Maurizio Napolitano as author <napolitano@fbk.eu>.
+where not otherwise indicated, the chosen licence is Creative Commons Attribution 4.0 declaring Maurizio Napolitano as author.
